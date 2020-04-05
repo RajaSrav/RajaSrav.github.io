@@ -1,0 +1,126 @@
+body {
+  display: flex;
+  background-color: rgba(29, 124, 248, 0.05);
+  justify-content: center;
+}
+
+.card {
+  width: 80%;
+  background-color: #ffffff;
+  border-top: 3px solid #a951ed;;
+  box-shadow: 0 0 5px rgba(0,0,0,.4);
+  margin: 33px;
+  text-align: center;
+}
+.oval-cropper{
+    width: 64px;
+    height: 64px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin: 0 auto;
+}
+.oval-cropper img {
+    display: inline;
+    margin: 0 auto;
+    height: 64px;
+    width: auto;
+  }
+  .name {
+    color: #000fff;
+  }
+  .card__quote {
+    font-style: italic !important;
+    font-size: 23px;
+    padding: 0 1.25rem 1.25rem;
+}
+  .now_at {
+      color: #657482;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      overflow: hidden;
+      margin-top: 24px;
+  }
+  .maincard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .card1 {
+    font-size: 18px;
+    margin: 3px;
+    padding: 0 1.25rem 1.25rem;
+    width: 25%;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    text-align: center;
+  }
+  .color1 {
+    border-top: 3px solid #000fff;
+    font-style: oblique;
+  }
+  .color2 {
+    border-top: 3px solid #FF33D4;
+    font-style: italic;
+  }
+  .color3 {
+    border-top: 3px solid #33FFFF;
+    font-style: oblique;
+  }
+  .color4 {
+    border-top: 3px solid #FF5533;
+    font-style: italic;
+  }
+  .color5 {
+    border-top: 3px solid #33FF36;
+    font-style: oblique;
+  }
+  .card__company-info {
+    float: left;
+    display: block;
+    margin-right: 1.69491525%;
+    width: 100%;
+    border-radius: 0 0 8px 8px;
+    bottom: 0;
+    background-color: #f7f7f8;
+  }
+  @media only screen and (max-width:768px) {
+    .card1 {
+      font-size: 18px;
+      margin: 3px;
+      padding: 0 1.25rem 1.25rem;
+      width: 38%;
+      background-color: #ffffff;
+      box-shadow: 0 0 5px rgba(0,0,0,.4);
+      text-align: center;
+    }
+}
+@media only screen and (max-width:470px) {
+  .card1 {
+    font-size: 18px;
+    margin: 3px;
+    padding: 0 1.25rem 1.25rem;
+    width: 90%;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    text-align: center;
+  }
+
+}
+
+footer {
+   padding-top: 1.2rem;
+   color: #ffffff;
+   padding-bottom: 1rem;
+   font-size: 1.5rem;
+   background-color: #000000;
+}
+
+footer a {
+   color: #000fff;
+}
+footer a:hover {
+   color: #2df;
+}
