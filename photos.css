@@ -1,0 +1,26 @@
+#jsdata {
+  display: flex;
+  justify-content: center;
+}
+.jsdata {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 93%;
+  box-shadow: 0 0 5px rgba(0,0,0,.4);
+}
+.ph1 {
+  width: 30%;
+  background-color: #ffffff;
+  box-shadow: 8px 8px 8px #ddd;
+  border-radius: 8px 33px 8px 33px;
+  margin: 1%;
+  text-align: center;
+  border: 2px solid #000fff;
+}
+img {
+  border-radius: 8px 33px 8px 33px;
+  width: 98%;
+  height: 90%;
+}

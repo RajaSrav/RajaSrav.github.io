@@ -1,0 +1,23 @@
+{
+  "photos":[{
+    "image":"img/Gallery/1.JPG",
+    "name": "age",
+    "value": "24"
+     },
+
+    {
+      "image":"img/Gallery/2.jpg",
+      "name": "Address",
+      "value": "5/4,Kadapa,Ap "
+    },
+    {
+      "image":"img/Gallery/4.jpg",
+      "name": "Email",
+      "value": "gkrajareddy@gmail.com "
+    },
+    {
+      "image":"img/Gallery/3.jpg",
+      "name": "Phone",
+      "value": "9052507933 "
+    }]
+}
