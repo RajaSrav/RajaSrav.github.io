@@ -1,23 +1,60 @@
 {
   "photos":[{
     "image":"img/Gallery/1.JPG",
-    "name": "age",
-    "value": "24"
+
      },
 
     {
       "image":"img/Gallery/2.jpg",
-      "name": "Address",
-      "value": "5/4,Kadapa,Ap "
+
     },
     {
       "image":"img/Gallery/4.jpg",
-      "name": "Email",
-      "value": "gkrajareddy@gmail.com "
+
     },
     {
       "image":"img/Gallery/3.jpg",
-      "name": "Phone",
-      "value": "9052507933 "
-    }]
+
+    },
+    {
+        "image":"img/Gallery/amrith.jpg",
+
+      },
+      {
+        "image":"img/Gallery/amrith1.jpg",
+
+      },
+      {
+        "image":"img/Gallery/amrith2.jpg",
+
+      },
+      {
+        "image":"img/Gallery/apswr.jpg",
+
+      },
+      {
+        "image":"img/Gallery/apswr1.jpg",
+
+      },
+      {
+        "image":"img/Gallery/apswr2.jpg",
+
+      },
+      {
+        "image":"img/Gallery/apswr3.jpg",
+
+      },
+      {
+        "image":"img/Gallery/gmrit.jpg",
+
+      },
+      {
+        "image":"img/Gallery/gmrit1.jpg",
+
+      },
+      {
+        "image":"img/Gallery/nalanda.jpg",
+
+      },
+    ]
 }

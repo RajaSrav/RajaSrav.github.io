@@ -26,15 +26,15 @@ img {
 }
 @media only screen and (max-width:768px) {
   .ph1 {
-    width: 45%;
+    width: 43%;
   }
 }
 @media only screen and (max-width:470px) {
   .ph1 {
     width: 90%;
-    border-radius: 44px 8px 8px 44px;
+    border-radius: 44px 8px 44px 8px;
   }
   img {
-    border-radius: 44px 8px 8px 44px;
+    border-radius: 44px 8px 44px 8px;
   }
 }
